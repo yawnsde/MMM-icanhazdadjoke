@@ -19,7 +19,7 @@ var config = {
     modules: [
         {
             module: 'MMM-icanhazdadjoke',
-			position: 'bottom_right',
+            position: 'bottom_right',
             config: {
                 // See below for configurable options
             }
